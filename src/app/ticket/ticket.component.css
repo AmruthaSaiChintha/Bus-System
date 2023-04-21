@@ -1,0 +1,44 @@
+.ticket-details {
+  margin: 20px;
+  border: 1px solid #ddd;
+  padding: 20px;
+}
+
+.ticket-details h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.ticket-details p {
+  font-size: 16px;
+  margin: 0;
+}
+
+
+.ticket-details {
+  margin: 20px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  font-size: initial; /* or font-size: unset; */
+}
+
+.booking-message {
+  margin-top: 20px;
+  font-size: 24px;
+  color: green;
+  text-align: center;
+}
+
+
+.booking-message {
+  margin-top: 20px;
+  font-size: 24px;
+  color: green;
+  text-align: center;
+}
+
+
+.parent-selector .booking-message {
+  font-size: 24px;
+}
+
